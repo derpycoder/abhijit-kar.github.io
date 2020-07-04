@@ -27,11 +27,11 @@
 1. [Rollup](https://rollupjs.org/guide/en/)
 
 # Past Projects:
-1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular & Typescript)
-1. [Bull Sheep](https://www.abhijit-kar.com/bull-sheep/) - (Lua script in Pico 8)
+1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
+1. [Bull Sheep](https://www.abhijit-kar.com/bull-sheep/) - (Made in PICO-8 using Lua)
 1. [Angular Scaffolding](https://www.abhijit-kar.com/angular-scaffolding)
-1. [Monster Shuffle](https://abhijit-kar.itch.io/monster-shuffle) - (Made with Unity & C#)
-1. [Adobe Flash Editor](https://drive.google.com/drive/folders/0B3Cbrg4maoDvSEtZVDhtVm1ZZnc?usp=sharing) - (Made with Flash & ActionScript 3)
+1. [Monster Shuffle](https://abhijit-kar.itch.io/monster-shuffle) - (Made in Unity using C#)
+1. [Adobe Flash Editor](https://drive.google.com/drive/folders/0B3Cbrg4maoDvSEtZVDhtVm1ZZnc?usp=sharing) - (Made in Flash using ActionScript 3)
 
 # Hobbies
 Working on [QuillerBee](https://www.quillerbee.com) & Gaming on [PS4](https://my.playstation.com/profile/Abhijit-Kar)!
