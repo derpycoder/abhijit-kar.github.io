@@ -4,7 +4,7 @@
 
 ## Tech Stack:
 
-🚀 Dgraph + 🔥 Firebase + ❤️ Svelte = 🐝 _QuillerBee_
+🚀 Dgraph + 🔥 Firebase + ❤️ Svelte = 🐝 QuillerBee
 
 ### BackEnd:
 1. [Dgraph](https://dgraph.io/) - GraphDB with native GraphQL Capability, Distributed, Sharded, Jepsen Tested, Flexible Schema, & more
@@ -36,6 +36,3 @@
 1. [Angular Scaffolding](https://www.abhijit-kar.com/angular-scaffolding) - (Made in Angular using Typescript)
 1. [Monster Shuffle](https://abhijit-kar.itch.io/monster-shuffle) - (Made in Unity using C#)
 1. [Adobe Flash Editor](https://drive.google.com/drive/folders/0B3Cbrg4maoDvSEtZVDhtVm1ZZnc?usp=sharing) - (Made in Flash using ActionScript 3)
-
-## Hobbies
-Working on _QuillerBee_ & Gaming on _PS4!_
