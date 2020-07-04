@@ -1,4 +1,8 @@
-[Résumé](https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo) | [Twitter](https://twitter.com/QuillerBee) | [Email](mailto:reachme@abhijit-kar.com) | [Leetcode](https://leetcode.com/abhijit-kar/) | [StackOverflow](https://stackoverflow.abhijit-kar.com)
+[Resume](https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo) | 
+[Twitter](https://twitter.com/QuillerBee) | 
+[Email](mailto:reachme@abhijit-kar.com) | 
+[Leetcode](https://leetcode.com/abhijit-kar/) | 
+[Stackoverflow](https://stackoverflow.abhijit-kar.com)
 
 [Quiller Bee](https://www.quillerbee.com) | [![QuillerBee](https://www.quillerbee.com/assets/images/logos/logo-128x128.png)](https://www.quillerbee.com) | [Storybook](https://storybook.quillerbee.com/)
 
@@ -8,7 +12,7 @@
 
 #### BackEnd:
 1. [Dgraph](https://dgraph.io/) - World's most advanced GraphDB, with native GraphQL capabilities
-1. [Firebase](https://firebase.google.com/) - Easy Auth, Object Storage, Crashlytics, FCM, Remote Config, Dynamic Link, ...
+1. [Firebase](https://firebase.google.com/) - Easy Auth, Object Storage, Crashlytics, FCM, Remote Config, Dynamic Link, and much more
 1. [Google Analytics](https://developers.google.com/analytics) - Best in class Website Tracker
 1. [RE CAPTCHA V3](https://developers.google.com/recaptcha/docs/v3) - Bot Deterrent
 1. [Commons Host](https://commons.host/) - For Static Web Hosting, with HTTP/2, Server Push & Brotli Compression
