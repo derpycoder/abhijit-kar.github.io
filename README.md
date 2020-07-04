@@ -10,10 +10,10 @@
 
 #### BackEnd:
 1. [Dgraph](https://dgraph.io/) - World's most advanced GraphDB, with native GraphQL capabilities
-1. [Firebase](https://firebase.google.com/) - Auth, Object Storage, Crashlytics, FCM, Remote Config, Dynamic Link & more
-1. [Google Analytics](https://developers.google.com/analytics) - To track the website
-1. [RE CAPTCHA V3](https://developers.google.com/recaptcha/docs/v3) - To deter bots
-1. [Commons Host](https://commons.host/) - For static web hosting, with HTTP/2, server push & brotli compression.
+1. [Firebase](https://firebase.google.com/) - Easy Auth, Object Storage, Crashlytics, FCM, Remote Config, Dynamic Link, ...
+1. [Google Analytics](https://developers.google.com/analytics) - Best in class Website Tracker
+1. [RE CAPTCHA V3](https://developers.google.com/recaptcha/docs/v3) - Bot Deterrent
+1. [Commons Host](https://commons.host/) - For Static Web Hosting, with HTTP/2, Server Push & Brotli Compression
 
 #### Front End:
 1. [Svelte](https://svelte.dev/) - Best Web Framework
@@ -22,8 +22,8 @@
 1. [ApolloGraphQL](http://apollographql.com/) - Best GraphQL Client with inbuilt State Manager, Optimistic UI
 1. [RxFire](https://firebase.googleblog.com/2018/09/introducing-rxfire-easy-async-firebase.html) - For handling asynchronicity with Firebase
 1. [RxJS](https://rxjs.dev/) - For Asynchronous Stream Processing
-1. [Three JS](https://threejs.org/) - For custom Maps & Procedural Terrain
-1. [Voronoi](https://www.npmjs.com/package/voronoi) - For Procedural texture
+1. [Three JS](https://threejs.org/) - For Custom Maps & Procedural Terrain Generation
+1. [Voronoi](https://www.npmjs.com/package/voronoi) - For Procedural Texture Generation
 1. [Bezier](https://pomax.github.io/bezierjs/) - Foundation for the Stencil Editor
 
 #### Misc:
