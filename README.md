@@ -27,7 +27,7 @@
 ### Misc:
 1. [Chroma](https://gka.github.io/chroma.js/)
 1. [Loglevel](https://www.npmjs.com/package/loglevel)
-1. [Page<sup>js</sup>](https://visionmedia.github.io/page.js/)
+1. [Page <sup>js</sup>](https://visionmedia.github.io/page.js/)
 1. [Rollup](https://rollupjs.org/guide/en/)
 
 ## Past Projects:
