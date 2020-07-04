@@ -7,19 +7,13 @@
 [Email](mailto:reachme@abhijit-kar.com) | [Twitter](https://twitter.com/QuillerBee) | [StackOverflow](https://stackoverflow.abhijit-kar.com)
 
 # Technologies:
-[x] HTML/CSS
-[x] JavaScript
-[x] React
-[x] Redux-Saga
-
-# Prior Experience
-[ ] Angular
-[ ] TypeScript
-[ ] Unity
-[ ] C#
+1. HTML/CSS
+1. JavaScript
+1. React
+1. Redux-Saga
 
 # Hobbies
 
-Working on **QuillerBee** or Gaming on Playstation!
+Working on **QuillerBee** or Gaming on **Playstation**!
 
 ![QuillerBee](https://www.quillerbee.com/assets/images/logos/logo-128x128.png)
