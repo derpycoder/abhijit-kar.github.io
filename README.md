@@ -2,18 +2,18 @@
 
 [Quiller Bee](https://www.quillerbee.com) | [![QuillerBee](https://www.quillerbee.com/assets/images/logos/logo-128x128.png)](https://www.quillerbee.com) | [Storybook](https://storybook.quillerbee.com/)
 
-### Tech Stack:
+# Tech Stack:
 
 🚀 Dgraph + 🔥 Firebase + ❤️ Svelte = 🐝 QuillerBee
 
-#### BackEnd:
+## BackEnd:
 1. [Dgraph](https://dgraph.io/) - GraphDB with native GraphQL Capability, Distributed, Sharded, Jepsen Tested, Flexible Schema, & more
 1. [Firebase](https://firebase.google.com/) - Easy Auth, Object Storage, Crashlytics, FCM, Remote Config, Dynamic Link, & more
 1. [Google Analytics](https://developers.google.com/analytics) - Best in class Website Tracker
 1. [RE CAPTCHA V3](https://developers.google.com/recaptcha/docs/v3) - Bot Deterrent
 1. [Commons Host](https://commons.host/) - For Static Web Hosting, with HTTP/2, Server Push & Brotli Compression
 
-#### Front End:
+## Front End:
 1. [Svelte](https://svelte.dev/) - Best Web Framework
 1. [Workbox](https://developers.google.com/web/tools/workbox) - For Progressive Web App
 1. [Storybook](https://storybook.js.org/) - For Component Driven Development
@@ -24,7 +24,7 @@
 1. [Voronoi](https://www.npmjs.com/package/voronoi) - For Procedural Texture Generation
 1. [Bezier](https://pomax.github.io/bezierjs/) - Foundation for the Stencil Editor
 
-#### Misc:
+## Misc:
 1. [Chroma](https://gka.github.io/chroma.js/)
 1. [Loglevel](https://www.npmjs.com/package/loglevel)
 1. [Page JS](https://visionmedia.github.io/page.js/)
