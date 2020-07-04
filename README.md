@@ -38,4 +38,4 @@
 1. [Adobe Flash Editor](https://drive.google.com/drive/folders/0B3Cbrg4maoDvSEtZVDhtVm1ZZnc?usp=sharing) - (Made in Flash using ActionScript 3)
 
 ## Hobbies
-Working on [QuillerBee](https://www.quillerbee.com) & Gaming on [PS4](https://my.playstation.com/profile/Abhijit-Kar)!
+Working on QuillerBee & Gaming on PS4!
