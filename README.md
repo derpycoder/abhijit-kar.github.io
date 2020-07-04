@@ -4,7 +4,7 @@
 1. [Bull Sheep](https://www.abhijit-kar.com/bull-sheep/)
 1. [Angular Scaffolding](https://www.abhijit-kar.com/angular-scaffolding)
 
-[StackOverflow](https://stackoverflow.abhijit-kar.com) | [Twitter](https://twitter.com/QuillerBee) | [Email](mailto:reachme@abhijit-kar.com) | 
+[Email](mailto:reachme@abhijit-kar.com) | [Twitter](https://twitter.com/QuillerBee) | [StackOverflow](https://stackoverflow.abhijit-kar.com)
 
 # Technologies:
 [x] HTML/CSS
@@ -20,6 +20,6 @@
 
 # Hobbies
 
-*Working* on **QuillerBee** or *Gaming* on Playstation!
+Working on **QuillerBee** or Gaming on Playstation!
 
 ![QuillerBee](https://www.quillerbee.com/assets/images/logos/logo-128x128.png)
