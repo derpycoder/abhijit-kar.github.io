@@ -7,8 +7,8 @@
 🚀 Dgraph + 🔥 Firebase + ❤️ Svelte = 🐝 QuillerBee
 
 #### BackEnd:
-1. [Dgraph](https://dgraph.io/) - World's most advanced GraphDB, with native GraphQL capabilities
-1. [Firebase](https://firebase.google.com/) - Easy Auth, Object Storage, Crashlytics, FCM, Remote Config, Dynamic Link, and much more
+1. [Dgraph](https://dgraph.io/) - GraphDB with native GraphQL Capability, Distributed, Sharded, Jepsen Tested, Flexible Schema, & more
+1. [Firebase](https://firebase.google.com/) - Easy Auth, Object Storage, Crashlytics, FCM, Remote Config, Dynamic Link, & more
 1. [Google Analytics](https://developers.google.com/analytics) - Best in class Website Tracker
 1. [RE CAPTCHA V3](https://developers.google.com/recaptcha/docs/v3) - Bot Deterrent
 1. [Commons Host](https://commons.host/) - For Static Web Hosting, with HTTP/2, Server Push & Brotli Compression
