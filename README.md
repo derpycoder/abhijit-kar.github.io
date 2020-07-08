@@ -1,6 +1,6 @@
 [Resume](https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo) | [Twitter](https://twitter.com/QuillerBee) | [Email](mailto:reachme@abhijit-kar.com) | [Leetcode](https://leetcode.com/abhijit-kar/) | [Stackoverflow](https://stackoverflow.abhijit-kar.com)
 
-[Quiller Bee](https://www.quillerbee.com) | [![QuillerBee](https://www.quillerbee.com/assets/images/logos/logo-128x128.png)](https://www.quillerbee.com) | [Storybook](https://storybook.quillerbee.com/)
+[Quiller Bee](https://www.quillerbee.com) | [![QuillerBee](https://www.abhijit-kar.com/quillerbee.png)](https://www.quillerbee.com) | [Storybook](https://storybook.quillerbee.com/)
 
 ## Tech Stack:
 
