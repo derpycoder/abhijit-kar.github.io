@@ -4,7 +4,7 @@
   <a href="https://www.abhijit-kar.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a>
   <a href="https://storybook.quillerbee.com/"><img src="https://www.abhijit-kar.com/honey-laddle.png" alt="Honey Laddle"></a>
   <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png" alt="Quiller Bee"/></a>
-  <p align="center">I'm keeping busy with <sub><a href="https://www.quillerbee.com"><img src="https://img.shields.io/badge/QuillerBee-v%200.0.1-brightgreen" alt="Quiller Bee" /></a></sub>.</p>
+  <p align="center">I'm keeping busy with <sub><sub><a href="https://www.quillerbee.com"><img src="https://img.shields.io/badge/QuillerBee-v%200.0.1-brightgreen" alt="Quiller Bee" /></a></sub></sub>.</p>
 </p>
 
 ## Tech Stack:
