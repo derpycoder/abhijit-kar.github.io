@@ -1,6 +1,12 @@
 [Resume](https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo) | [Twitter](https://twitter.com/QuillerBee) | [Email](mailto:reachme@abhijit-kar.com) | [Leetcode](https://leetcode.com/abhijit-kar/) | [Stackoverflow](https://stackoverflow.abhijit-kar.com)
 
-[Quiller Bee](https://www.quillerbee.com) | [![QuillerBee](https://www.abhijit-kar.com/quillerbee.png)](https://www.quillerbee.com) | [Storybook](https://storybook.quillerbee.com/)
+<p align="center">
+  <a href="https://www.abhijit-kar.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a>
+  <a href="https://storybook.quillerbee.com/"><img src="https://www.abhijit-kar.com/honey-laddle.png" alt="Honey Laddle"></a>
+  <a href="https://www.quillerbee.com"><img src="https://www.abhijit-kar.com/quillerbee.png" alt="Quiller Bee"/></a>
+  <p align="center">I'm keeping busy with <a href="https://www.quillerbee.com">QuillerBee</a>!</p>
+</p>
+
 ## Tech Stack:
 
 🚀 Dgraph + 🔥 Firebase + ❤️ Svelte = 🐝 QuillerBee
