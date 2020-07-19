@@ -1,4 +1,5 @@
-[Resume](https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo) | [Twitter](https://twitter.com/QuillerBee) | [Email](mailto:reachme@abhijit-kar.com) | [Leetcode](https://leetcode.com/abhijit-kar/) | [Stackoverflow](https://stackoverflow.abhijit-kar.com)
+[Resume](https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo) | [Twitter](https://twitter.com/QuillerBee) | [Email](mailto:reachme@abhijit-kar.com)  
+[Leetcode](https://leetcode.com/abhijit-kar/) | [GitHub](https://github.com/abhijit-kar) | [Stackoverflow](https://stackoverflow.abhijit-kar.com)
 
 <p align="center">
   <a href="https://www.abhijit-kar.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a>
