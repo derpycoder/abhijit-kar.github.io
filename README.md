@@ -34,7 +34,7 @@
 1. [Page.js](https://visionmedia.github.io/page.js/)
 1. [Rollup](https://rollupjs.org/guide/en/)
 1. [Pickr](https://simonwep.github.io/pickr/)
-1. [Zbar:WASM](https://www.npmjs.com/package/zbar.wasm)
+1. [Zbar:wasm](https://www.npmjs.com/package/zbar.wasm)
 1. [Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html)
 
 ## Past Projects:
