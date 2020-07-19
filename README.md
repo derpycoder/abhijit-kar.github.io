@@ -33,6 +33,9 @@
 1. [Loglevel](https://www.npmjs.com/package/loglevel)
 1. [Page.js](https://visionmedia.github.io/page.js/)
 1. [Rollup](https://rollupjs.org/guide/en/)
+1. [Pickr](https://simonwep.github.io/pickr/)
+1. [Zbar](https://www.npmjs.com/package/zbar.wasm)
+1. [Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html)
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
