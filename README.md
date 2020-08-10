@@ -42,7 +42,7 @@
 1. [Filepond](https://pqina.nl/filepond/)
 1. [Parallax.js](https://matthew.wagerfield.com/parallax/)
 1. [Bowser](https://github.com/lancedikson/bowser)
-1. [Robohash](https://robohash.org/)
+1. [RoboHash](https://robohash.org/)
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
