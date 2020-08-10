@@ -44,6 +44,8 @@
 1. [Bowser](https://github.com/lancedikson/bowser)
 1. [RoboHash](https://robohash.org/)
 1. [Tenor](https://tenor.com/gifapi/documentation) | [Giphy](https://developers.giphy.com/)
+1. [Circulus](https://www.sarasoueidan.com/tools/circulus/)
+1. [Neumorphism](https://neumorphism.io/#e3e3e3)
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
