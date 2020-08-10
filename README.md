@@ -43,7 +43,7 @@
 1. [Parallax.js](https://matthew.wagerfield.com/parallax/)
 1. [Bowser](https://github.com/lancedikson/bowser)
 1. [RoboHash](https://robohash.org/)
-1. [Tenor](https://tenor.com/gifapi/documentation) | [Giphy](https://developers.giphy.com/)
+1. [Tenor](https://tenor.com/gifapi/documentation) or [Giphy](https://developers.giphy.com/)
 1. [Circulus](https://www.sarasoueidan.com/tools/circulus/)
 1. [Neumorphism](https://neumorphism.io/#e3e3e3)
 
