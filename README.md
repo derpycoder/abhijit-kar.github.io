@@ -37,6 +37,11 @@
 1. [Zbar](https://www.npmjs.com/package/zbar.wasm)
 1. [Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html)
 1. [iziToast](https://izitoast.marcelodolza.com/)
+1. [SVG Repo](https://www.svgrepo.com/)
+1. [SVG Icon](https://leungwensen.github.io/svg-icon/)
+1. [Filepond](https://pqina.nl/filepond/)
+1. [Parallax.js](https://matthew.wagerfield.com/parallax/)
+1. [Bowser](https://github.com/lancedikson/bowser)
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
