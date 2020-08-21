@@ -46,8 +46,9 @@
 1. [Neumorphism](https://neumorphism.io/#e3e3e3) - Shadow generator to emulate Neumorphism.
 1. [SVG Repo](https://www.svgrepo.com/) - Beautiful, colorful & free SVG icons.
 1. [SVG Icon](https://leungwensen.github.io/svg-icon/) - A compilation of all free icons in modern web with a SVG def generator.
-1. [RoboHash](https://robohash.org/) - For placeholder profile image
-1. [Giphy](https://developers.giphy.com/) - Gif explorer with a free web ui.
+1. [RoboHash](https://robohash.org/) - For placeholder profile image.
+1. [Giphy](https://developers.giphy.com/) - GIF explorer with a free web ui.
+1. [Virtual Scroller](https://www.npmjs.com/package/virtual-scroller) - For a performant Infinite Scrolling experience, unlike Reddit.
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
