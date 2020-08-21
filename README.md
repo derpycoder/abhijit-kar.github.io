@@ -29,11 +29,7 @@
 1. [Bezier](https://pomax.github.io/bezierjs/) - Foundation for the Stencil Editor
 
 #### Misc:
-[Chroma](https://gka.github.io/chroma.js/) • [Pickr](https://simonwep.github.io/pickr/) • [Zbar](https://www.npmjs.com/package/zbar.wasm) • [Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html) • [Day.js](https://day.js.org/)
-[JavaScript Time Ago](https://www.npmjs.com/package/javascript-time-ago) • [Loglevel](https://www.npmjs.com/package/loglevel) • [Page.js](https://visionmedia.github.io/page.js/) • [Rollup](https://rollupjs.org/guide/en/) • [iziToast](https://izitoast.marcelodolza.com/)
-[Filepond](https://pqina.nl/filepond/) • [Parallax.js](https://matthew.wagerfield.com/parallax/) • [Bowser](https://github.com/lancedikson/bowser)
-[Neumorphism](https://neumorphism.io/#e3e3e3) • [SVG Repo](https://www.svgrepo.com/) • [SVG Icon](https://leungwensen.github.io/svg-icon/) • [RoboHash](https://robohash.org/)
-[Giphy](https://developers.giphy.com/) • [Circulus](https://www.sarasoueidan.com/tools/circulus/)
+[Chroma](https://gka.github.io/chroma.js/), [Pickr](https://simonwep.github.io/pickr/), [Zbar](https://www.npmjs.com/package/zbar.wasm), [Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html), [Day.js](https://day.js.org/), [JavaScript Time Ago](https://www.npmjs.com/package/javascript-time-ago), [Loglevel](https://www.npmjs.com/package/loglevel), [Page.js](https://visionmedia.github.io/page.js/), [Rollup](https://rollupjs.org/guide/en/), [iziToast](https://izitoast.marcelodolza.com/), [Filepond](https://pqina.nl/filepond/), [Parallax.js](https://matthew.wagerfield.com/parallax/), [Bowser](https://github.com/lancedikson/bowser), [Neumorphism](https://neumorphism.io/#e3e3e3), [SVG Repo](https://www.svgrepo.com/), [SVG Icon](https://leungwensen.github.io/svg-icon/), [RoboHash](https://robohash.org/), [Giphy](https://developers.giphy.com/), [Circulus](https://www.sarasoueidan.com/tools/circulus/)
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
