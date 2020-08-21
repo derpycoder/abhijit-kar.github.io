@@ -29,25 +29,15 @@
 1. [Bezier](https://pomax.github.io/bezierjs/) - Foundation for the Stencil Editor
 
 ### Misc:
-1. [Chroma](https://gka.github.io/chroma.js/)
-1. [Loglevel](https://www.npmjs.com/package/loglevel)
-1. [Page.js](https://visionmedia.github.io/page.js/)
-1. [Rollup](https://rollupjs.org/guide/en/)
-1. [Pickr](https://simonwep.github.io/pickr/)
-1. [Zbar](https://www.npmjs.com/package/zbar.wasm)
-1. [Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html)
-1. [iziToast](https://izitoast.marcelodolza.com/)
-1. [SVG Repo](https://www.svgrepo.com/)
-1. [SVG Icon](https://leungwensen.github.io/svg-icon/)
-1. [Filepond](https://pqina.nl/filepond/)
-1. [Parallax.js](https://matthew.wagerfield.com/parallax/)
-1. [Bowser](https://github.com/lancedikson/bowser)
-1. [RoboHash](https://robohash.org/)
-1. [Giphy](https://developers.giphy.com/)
-1. [Circulus](https://www.sarasoueidan.com/tools/circulus/)
-1. [Neumorphism](https://neumorphism.io/#e3e3e3)
-1. [Day.js](https://day.js.org/)
-1. [JavaScript Time Ago](https://www.npmjs.com/package/javascript-time-ago)
+|  |  |External|
+|-|-|-|
+|[Filepond](https://pqina.nl/filepond/)|[Zbar](https://www.npmjs.com/package/zbar.wasm)|[RoboHash](https://robohash.org/)|  |
+|[Loglevel](https://www.npmjs.com/package/loglevel)|[Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html)|[Giphy](https://developers.giphy.com/)|
+|[Page.js](https://visionmedia.github.io/page.js/)|[Chroma](https://gka.github.io/chroma.js/)|[Neumorphism](https://neumorphism.io/#e3e3e3)|
+|[Rollup](https://rollupjs.org/guide/en/)|[Pickr](https://simonwep.github.io/pickr/)|[Circulus](https://www.sarasoueidan.com/tools/circulus/)|
+|[Bowser](https://github.com/lancedikson/bowser)|[Day.js](https://day.js.org/)|[SVG Repo](https://www.svgrepo.com/)|
+|[iziToast](https://izitoast.marcelodolza.com/)|[JavaScript Time Ago](https://www.npmjs.com/package/javascript-time-ago)|[SVG Icon](https://leungwensen.github.io/svg-icon/)|
+|[Parallax.js](https://matthew.wagerfield.com/parallax/)|  |  |
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
