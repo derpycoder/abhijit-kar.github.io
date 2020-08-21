@@ -29,15 +29,15 @@
 1. [Bezier](https://pomax.github.io/bezierjs/) - Foundation for the Stencil Editor
 
 ### Misc:
-|  |  |External|
-|-|-|-|
-|[Filepond](https://pqina.nl/filepond/)|[Zbar](https://www.npmjs.com/package/zbar.wasm)|[RoboHash](https://robohash.org/)|  |
-|[Loglevel](https://www.npmjs.com/package/loglevel)|[Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html)|[Giphy](https://developers.giphy.com/)|
-|[Page.js](https://visionmedia.github.io/page.js/)|[Chroma](https://gka.github.io/chroma.js/)|[Neumorphism](https://neumorphism.io/#e3e3e3)|
-|[Rollup](https://rollupjs.org/guide/en/)|[Pickr](https://simonwep.github.io/pickr/)|[Circulus](https://www.sarasoueidan.com/tools/circulus/)|
-|[Bowser](https://github.com/lancedikson/bowser)|[Day.js](https://day.js.org/)|[SVG Repo](https://www.svgrepo.com/)|
-|[iziToast](https://izitoast.marcelodolza.com/)|[JavaScript Time Ago](https://www.npmjs.com/package/javascript-time-ago)|[SVG Icon](https://leungwensen.github.io/svg-icon/)|
-|[Parallax.js](https://matthew.wagerfield.com/parallax/)|  |  |
+| head1        | head two          | External |
+|:-------------|:------------------|:------|
+| [Filepond](https://pqina.nl/filepond/) | [Zbar](https://www.npmjs.com/package/zbar.wasm) | [RoboHash](https://robohash.org/) |
+| [Loglevel](https://www.npmjs.com/package/loglevel) | [Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html) | [Giphy](https://developers.giphy.com/) |
+| [Page.js](https://visionmedia.github.io/page.js/) | [Chroma](https://gka.github.io/chroma.js/) | [Neumorphism](https://neumorphism.io/#e3e3e3) |
+| [Rollup](https://rollupjs.org/guide/en/) | [Pickr](https://simonwep.github.io/pickr/) | [Circulus](https://www.sarasoueidan.com/tools/circulus/)|
+| [Bowser](https://github.com/lancedikson/bowser) | [Day.js](https://day.js.org/) | [SVG Repo](https://www.svgrepo.com/)  |
+| [iziToast](https://izitoast.marcelodolza.com/) | [JavaScript Time Ago](https://www.npmjs.com/package/javascript-time-ago) | [SVG Icon](https://leungwensen.github.io/svg-icon/) |
+| [Parallax.js](https://matthew.wagerfield.com/parallax/)|  |  |
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
