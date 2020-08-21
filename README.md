@@ -46,6 +46,8 @@
 1. [Giphy](https://developers.giphy.com/)
 1. [Circulus](https://www.sarasoueidan.com/tools/circulus/)
 1. [Neumorphism](https://neumorphism.io/#e3e3e3)
+1. [Day.js](https://day.js.org/)
+1. [JavaScript Time Ago](https://www.npmjs.com/package/javascript-time-ago)
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
