@@ -49,7 +49,7 @@
 1. [RoboHash](https://robohash.org/) - For placeholder profile image.
 1. [Giphy](https://developers.giphy.com/) - GIF explorer with a free web ui.
 1. [Virtual Scroller](https://www.npmjs.com/package/virtual-scroller) - For a performant Infinite Scrolling experience, unlike Reddit.
-1. [Tiny Date Picker}(https://chrisdavies.github.io/tiny-date-picker/) - Lightweight Minimalist Date Picker.
+1. [Flatpickr](https://flatpickr.js.org/) - Date picker with theme support.
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
