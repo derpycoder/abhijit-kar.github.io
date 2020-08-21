@@ -29,7 +29,25 @@
 1. [Bezier](https://pomax.github.io/bezierjs/) - Foundation for the Stencil Editor
 
 #### Misc:
-[Chroma](https://gka.github.io/chroma.js/), [Pickr](https://simonwep.github.io/pickr/), [Zbar](https://www.npmjs.com/package/zbar.wasm), [Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html), [Day.js](https://day.js.org/), [JavaScript Time Ago](https://www.npmjs.com/package/javascript-time-ago), [Loglevel](https://www.npmjs.com/package/loglevel), [Page.js](https://visionmedia.github.io/page.js/), [Rollup](https://rollupjs.org/guide/en/), [iziToast](https://izitoast.marcelodolza.com/), [Filepond](https://pqina.nl/filepond/), [Parallax.js](https://matthew.wagerfield.com/parallax/), [Bowser](https://github.com/lancedikson/bowser), [Neumorphism](https://neumorphism.io/#e3e3e3), [SVG Repo](https://www.svgrepo.com/), [SVG Icon](https://leungwensen.github.io/svg-icon/), [RoboHash](https://robohash.org/), [Giphy](https://developers.giphy.com/), [Circulus](https://www.sarasoueidan.com/tools/circulus/)
+1. [Chroma](https://gka.github.io/chroma.js/) - For color conversion & color generation.
+1. [Pickr](https://simonwep.github.io/pickr/) - Best damn color picker.
+1. [Zbar](https://www.npmjs.com/package/zbar.wasm) - Best WASM based QR Code scanner, that can scan multiple QR Code simultaneously.
+1. [Easy QR Code](https://www.easyproject.cn/easyqrcodejs/tryit.html) - Produces customizable QR Code.
+1. [Circulus](https://www.sarasoueidan.com/tools/circulus/) - For Radial UI generation.
+1. [Day.js](https://day.js.org/) - Super light weight Date library.
+1. [JavaScript Time Ago](https://www.npmjs.com/package/javascript-time-ago) - For displaying elapsed time like Twitter or Reddit.
+1. [Loglevel](https://www.npmjs.com/package/loglevel) - Best logger for JS.
+1. [Page.js](https://visionmedia.github.io/page.js/) - Lightest router for JS.
+1. [Rollup](https://rollupjs.org/guide/en/) - Fast bundler which allows lazy loading, customization via plugins.
+1. [iziToast](https://izitoast.marcelodolza.com/) - Lightweight & beautiful toaster.
+1. [Filepond](https://pqina.nl/filepond/) - Mindblowing, first hand, file uploader.
+1. [Parallax.js](https://matthew.wagerfield.com/parallax/) - Parallax effect that is controlled by gyroscope, mouse & touch.
+1. [Bowser](https://github.com/lancedikson/bowser) - For browser & device detection.
+1. [Neumorphism](https://neumorphism.io/#e3e3e3) - Shadow generator to emulate Neumorphism.
+1. [SVG Repo](https://www.svgrepo.com/) - Beautiful, colorful & free SVG icons.
+1. [SVG Icon](https://leungwensen.github.io/svg-icon/) - A compilation of all free icons in modern web with a SVG def generator.
+1. [RoboHash](https://robohash.org/) - For placeholder profile image
+1. [Giphy](https://developers.giphy.com/) - Gif explorer with a free web ui.
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
