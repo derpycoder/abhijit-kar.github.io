@@ -50,6 +50,7 @@
 1. [Giphy](https://developers.giphy.com/) - GIF explorer with a free web ui.
 1. [Virtual Scroller](https://www.npmjs.com/package/virtual-scroller) - For a performant Infinite Scrolling experience, unlike Reddit.
 1. [Flatpickr](https://flatpickr.js.org/) - Lightweight date picker with customization support & dark theme as well.
+1. [Numeraljs](http://numeraljs.com/) - For formatting numbers, upvotes, currency and more.
 
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
