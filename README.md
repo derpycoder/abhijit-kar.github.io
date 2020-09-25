@@ -7,10 +7,6 @@
   <p align="center">I'm keeping busy with <sub><a href="https://www.quillerbee.com"><img src="https://img.shields.io/badge/QuillerBee-v%200.0.2-brightgreen" alt="Quiller Bee" /></a></sub>.</p>
 </p>
 
-## Tech Stack:
-
-🚀 Dgraph + 🔥 Firebase + ❤️ Svelte = 🐝 QuillerBee
-
 ## Past Projects:
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
 1. [Bull Sheep](https://www.abhijit-kar.com/bull-sheep/) - (Made in PICO-8 using Lua)
