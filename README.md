@@ -4,7 +4,7 @@
   <a href="https://www.abhijit-kar.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a>
 </p>
 
-## Past Projects:
+## Projects:
 1. [Derpy Coder](https://www.derpycoder.com) - (Made using Ghost PRO)
 1. [Quiller Bee](https://www.quillerbee.com) - (Made using Hugo)
 1. [Dont Let Him Poo](https://www.abhijit-kar.com/dont-let-him-poo/) - (Made in Angular using Typescript)
