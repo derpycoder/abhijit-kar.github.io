@@ -1,9 +1,9 @@
 baseURL = "https://www.abhijit-kar.com"
-title = "Abhijit Kar"
+title = "Abhijit Kar ツ"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
-PygmentsCodeFences = true
+PygmentsCodeFences = false
 PygmentsStyle = "monokai"
 
 paginate = 10 
@@ -23,9 +23,9 @@ canonifyURLs = true
 
 enableRobotsTXT = true
 enableGitInfo = false
-enableEmoji = true
+enableEmoji = false
 enableMissingTranslationPlaceholders = false
-disableRSS = false
+disableRSS = true
 disableSitemap = false
 disable404 = false
 disableHugoGeneratorInject = false
@@ -53,10 +53,10 @@ dateformNumTime = "2006-01-02 15:04"
 # Metadata mostly used in document's head
 # 
 description = "I bring 5 years worth of industry experience to the table and everything I learnt from countless hours of experimentation over a decade."
-keywords = "portfolio, profile, abhijit, abhijeet, avijit, kar, kaur, abhijit kar"
+keywords = "portfolio, profile, abhijit, abhijeet, avijit, kar, kaur, abhijit kar, derpycoder, software engineer, developer, coder, programmer"
 images = [
-  "https://www.abhijit-kar.com/abhijit-kar.jpg",
-  "https://www.abhijit-kar.com/abhijit-kar.png",
+  "https://www.abhijit-kar.com/img/abhijit-kar.jpg",
+  "https://www.abhijit-kar.com/img/abhijit-kar.png",
 ]
 
 homeSubtitle = "Software Engineer"
@@ -75,7 +75,7 @@ disableReadOtherPosts = false
 # generate the buttons here: https://sharingbuttons.io
 # and add them into your own `layouts/partials/sharing-buttons.html`
 #
-enableSharingButtons = true
+enableSharingButtons = false
 
 # Integrate Javascript files or stylesheets by adding the url to the external assets or by
 # linking local files with their path relative to the static folder, e.g. "css/styles.css"
