@@ -1,7 +1,7 @@
 [Resume](https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo/export?format=pdf) | [Email](mailto:reachme@abhijit-kar.com) | [Leetcode](https://leetcode.com/abhijit-kar/) | [Stackoverflow](https://stackoverflow.abhijit-kar.com)
 
 <p align="center">
-  <a href="https://www.derpycoder.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="Abhijit Kar"/></a><br>
+  <a href="https://www.derpycoder.com"><img src="https://www.abhijit-kar.com/abhijit-kar.png" alt="DerpyCoder"/></a><br>
   <a href="https://www.derpycoder.com">Derpy Coder</a>
 </p>
 
