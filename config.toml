@@ -175,7 +175,7 @@ copyright = ''
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "about/"
+url = "https://www.derpycoder.com/about"
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
@@ -183,4 +183,4 @@ url = "https://www.derpycoder.com"
 [[menu.main]]
 identifier = "posts"
 name = "Projects"
-url = "posts/"
+url = "https://www.derpycoder.com/tag/experiments/"
