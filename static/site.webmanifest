@@ -1,6 +1,8 @@
 {
     "name": "Abhijit Kar",
     "short_name": "Abhijit Kar",
+    "start_url": "/",
+    "description": "I bring 5 years worth of industry experience to the table and everything I learnt from countless hours of experimentation over a decade.",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -14,6 +16,20 @@
         }
     ],
     "theme_color": "#11181f",
-    "background_color": "#11181f",
-    "display": "standalone"
+    "background_color": "#182029",
+    "display": "standalone",
+    "shortcuts": [
+        {
+          "name": "About Me",
+          "short_name": "About",
+          "description": "About what I do.",
+          "url": "https://www.derpycoder.com/about"
+        },
+        {
+          "name": "My Blog",
+          "short_name": "Blog",
+          "description": "My Blog, DerpyCoder",
+          "url": "https://www.derpycoder.com"
+        }
+    ]
 }
