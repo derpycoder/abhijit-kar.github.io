@@ -39,6 +39,8 @@ name = "Abhijit Kar"
 [blackfriday]
 hrefTargetBlank = true
 
+[taxonomies]
+
 [params]
 dateform = "Jan 2, 2006"
 dateformShort = "Jan 2"
