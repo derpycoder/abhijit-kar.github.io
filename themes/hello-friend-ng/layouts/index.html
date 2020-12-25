@@ -5,7 +5,7 @@
                <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}; margin: 0 auto;" />
             {{ end }}
 
-            <h1>{{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} {{ . }}{{ end }}</h1>
+            <h1>{{ $.Site.Title }}</h1>
             {{- with .Site.Params.homeSubtitle }}
                 <p>{{.}}</p>
             {{- end }}
