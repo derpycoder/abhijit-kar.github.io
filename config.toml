@@ -1,5 +1,5 @@
 baseURL = "https://www.abhijit-kar.com"
-title = "Abhijit Kar ツ"
+title = "Abhijit Kar"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -142,7 +142,7 @@ url = "https://stackoverflow.com/users/9368649/abhijit-kar-%e3%83%84"
 
 [languages]
 [languages.en]
-subtitle = "Portfolio"
+subtitle = "ツ"
 weight = 1
 copyright = '<a href="https://www.derpycoder.com" target="_blank">Blog</a>'
 
