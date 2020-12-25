@@ -142,9 +142,9 @@ url = "https://api.whatsapp.com/send/?phone=+918658610998&text=Hey%20Abhijit,%20
 
 [languages]
 [languages.en]
-subtitle = "Portfolio" 
-weight = 1 
-copyright = '' # '<a href="https://www.derpycoder.com" target="_blank">Derpy Coder</a>'
+subtitle = "Portfolio"
+weight = 1
+copyright = '<a href="https://www.derpycoder.com" target="_blank">Blog</a>'
 
 [menu]
 [[menu.main]]
