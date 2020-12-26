@@ -18,5 +18,32 @@
     ],
     "theme_color": "#11181f",
     "background_color": "#182029",
-    "display": "standalone"
+    "display": "standalone",
+    "categories": [
+        "portfolio",
+        "profile",
+        "website"
+    ],
+    "screenshots": [
+        {
+            "src": "desktop-screenshot-dark.png",
+            "sizes": "1366x768",
+            "type": "image/png"
+        },
+        {
+            "src": "mobile-screenshot-dark.png",
+            "sizes": "423x670",
+            "type": "image/png"
+        },
+        {
+            "src": "desktop-screenshot-light.png",
+            "sizes": "1366x768",
+            "type": "image/png"
+        },
+        {
+            "src": "mobile-screenshot-light.png",
+            "sizes": "425x674",
+            "type": "image/png"
+        }
+    ]
 }
