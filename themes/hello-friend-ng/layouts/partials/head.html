@@ -61,11 +61,3 @@
     {{- if templates.Exists "partials/extra-head.html" -}}
         {{ partial "extra-head.html" . }}
     {{- end }}
-    
-    <script>
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('/sw.js');
-            });
-        }
-    </script>
