@@ -113,10 +113,6 @@ name = "Blog"
 url = "https://www.derpycoder.com"
 
 [[params.social]]
-name = "Resume"
-url = "https://docs.google.com/document/d/16jbB9ipqmReDTs5IkEcjt8wsuCRJDGXjNvg9r2l6XQo/export?format=pdf"
-
-[[params.social]]
 name = "WhatsApp"
 url = "https://api.whatsapp.com/send/?phone=+918658610998&text=Hey%20Abhijit,%20I%20saw%20your%20profile!"
 
@@ -125,16 +121,16 @@ name = "Email"
 url = "mailto:reachme@abhijit-kar.com"
 
 [[params.social]]
+name = "GitHub"
+url = "https://github.com/abhijit-kar"
+
+[[params.social]]
 name = "CodePen"
 url = "https://codepen.io/abhijit-kar"
 
 [[params.social]]
 name = "LeetCode"
 url = "https://leetcode.com/abhijit-kar/"
-
-[[params.social]]
-name = "GitHub"
-url = "https://github.com/abhijit-kar"
 
 [[params.social]]
 name = "StackOverflow"
