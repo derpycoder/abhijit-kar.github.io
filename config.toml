@@ -140,7 +140,7 @@ url = "https://stackoverflow.com/users/9368649/abhijit-kar-%e3%83%84"
 [languages.en]
 subtitle = "ツ"
 weight = 1
-copyright = '<a href="https://www.derpycoder.com" target="_blank">Blog</a>'
+copyright = '<a href="https://www.derpycoder.com" target="_blank" rel="noopener">Blog</a>'
 
 [menu]
 [[menu.main]]
