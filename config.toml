@@ -152,10 +152,6 @@ identifier = "analytics"
 name = "Analytics"
 url = "https://plausible.io/abhijit-kar.com"
 [[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "https://www.derpycoder.com/contact/"
-[[menu.main]]
 identifier = "blog"
 name = "Blog"
 url = "https://www.derpycoder.com"
