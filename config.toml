@@ -148,9 +148,13 @@ identifier = "about"
 name = "About"
 url = "https://www.derpycoder.com/about"
 [[menu.main]]
-identifier = "analytics"
-name = "Analytics"
+identifier = "stats"
+name = "Stats"
 url = "https://plausible.io/abhijit-kar.com"
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "https://www.derpycoder.com/contact/"
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
