@@ -148,8 +148,8 @@ identifier = "about"
 name = "About"
 url = "https://www.derpycoder.com/about"
 [[menu.main]]
-identifier = "stats"
-name = "Stats"
+identifier = "analytics"
+name = "Analytics"
 url = "https://plausible.io/abhijit-kar.com"
 [[menu.main]]
 identifier = "contact"
