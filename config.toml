@@ -148,10 +148,6 @@ identifier = "about"
 name = "About"
 url = "https://www.derpycoder.com/about"
 [[menu.main]]
-identifier = "analytics"
-name = "Analytics"
-url = "https://plausible.io/abhijit-kar.com"
-[[menu.main]]
 identifier = "blog"
 name = "Blog"
 url = "https://www.derpycoder.com"
@@ -159,3 +155,7 @@ url = "https://www.derpycoder.com"
 identifier = "posts"
 name = "Projects"
 url = "https://www.derpycoder.com/tag/experiments/"
+[[menu.main]]
+identifier = "quillerbee"
+name = "Quiller Bee"
+url = "https://www.quillerbee.com"
