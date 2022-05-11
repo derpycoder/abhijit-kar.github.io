@@ -138,8 +138,3 @@ subtitle = "ツ"
 weight = 1
 copyright = '<a href="https://www.derpycoder.com" target="_blank" rel="noopener">Blog</a>'
 
-[menu]
-[[menu.main]]
-identifier = "quillerbee"
-name = "Quiller Bee"
-url = "https://www.quillerbee.com"
